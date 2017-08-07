@@ -31,3 +31,7 @@
 -> 35
 
  세 개도 되는지 해봐야 겠당.
+
+2017.8.5
+- https://eunmin.gitbooks.io/clojure-for-beginners/content/   
+조건문과시퀀스까지했음
